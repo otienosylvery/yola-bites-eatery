@@ -1,8 +1,10 @@
 .navbar{
-    padding: 20px 0px;
+    padding: 20px 10px;
     display: flex;
     justify-content: space-between;
-    align-items: center;   
+    align-items: center;
+    border-radius: 15px;
+    background-color:#F5C62F
 }
 
 .navbar .logo{
@@ -27,7 +29,7 @@
     background: transparent;
     font-size: 15px;
     color: #49557e;
-    border: 1px solid tomato;
+    border: 1px solid black;
     padding: 10px 30px;
     border-radius: 50px;
     cursor: pointer;
@@ -93,7 +95,7 @@
 .lightcolors .navbar-profile:hover .nav-profile-dropdown{
     color: black;
     background-color: #fff2ef;
-    border: 1px solid tomato;
+    border: 1px solid black;
     outline: 2px solid white;
 }
 
@@ -137,6 +139,7 @@
     width: 13px;
     position: absolute;
     transition: all .3s;
+    fill: black;
 }
 .sun-svg{
     opacity: 0;
