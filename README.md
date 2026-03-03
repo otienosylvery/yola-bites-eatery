@@ -1,6 +1,6 @@
-# Hangry
+# Yola Bites
 
-Hangry is a full-stack web application built using the MERN (MongoDB, Express.js, React, Node.js) stack. It aims to provide users with a smooth and interactive experience to explore and order food when they're feeling "hangry" (hungry + angry).
+Yola Bites is a full-stack web application built using the MERN (MongoDB, Express.js, React, Node.js) stack. It aims to provide users with a smooth and interactive experience to explore and order food when they're feeling "hangry" (hungry + angry).
 
 ## Tech Stack
 
