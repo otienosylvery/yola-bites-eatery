@@ -14,13 +14,13 @@ const Footer = () => {
                 <div className="footer-content-left">
                     <img
                         className="tomatologofooter"
-                        src={assets.logo}
+                        src={assets.yola_footer}
                         alt=""
                     />
-                    <p>
+                    {/* <p>
                         This website is just for my portfolio, it's not a real
                         website.
-                    </p>
+                    </p> */}
                     <div className="footer-social-icons">
                         <img src={assets.facebook_icon} alt="" />
                         <img src={assets.twitter_icon} alt="" />
@@ -34,7 +34,7 @@ const Footer = () => {
                     </div>
                 </div>
                 <div className="footer-content-center">
-                    <h2>COMPANY</h2>
+                    <h2>YOLA BITES</h2>
                     <ul>
                         <li>Home</li>
                         <li>About us</li>
@@ -52,7 +52,7 @@ const Footer = () => {
             </div>
             <hr />
             <p className="footer-copyright">
-                Copyright 2024 © Hangry.com - All rights reserved.
+                Copyright 2026 © yolabites.com - All rights reserved.
             </p>
         </div>
     );

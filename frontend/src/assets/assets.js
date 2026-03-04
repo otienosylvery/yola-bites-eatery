@@ -61,6 +61,7 @@ import logout_icon from './logout_icon.png'
 import parcel_icon from './parcel_icon.png'
 import yola_bites from './yola_bites.png'
 import header from './header.png'
+import yola_footer from './yola-footer.png'
 
 export const assets = {
     logo,
@@ -83,7 +84,8 @@ export const assets = {
     bag_icon,
     parcel_icon,
     yola_bites,
-    header
+    header,
+    yola_footer
 }
 
 export const menu_list = [
